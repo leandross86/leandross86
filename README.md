@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Leandro Souza from Brazil (🇧🇷).
+I am studying mechanical engineering and analysis and system development.
+
+
+🔎Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-souza-b0196387/)](https://www.linkedin.com/in/leandro-souza-b0196387/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandrobko?s=09)](https://twitter.com/leandrobko?s=09)
+
 <!--
 **leandross86/leandross86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
