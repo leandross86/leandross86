@@ -2,6 +2,10 @@
 
 My name is Leandro Souza from Brazil (🇧🇷).
 I am studying mechanical engineering and analysis and system development.
+- 🌱 I’m currently learning javascript, reactJS, react-native, typescript, Python...
+- 😄 I like to play soccer, videogames, got to the cinema...
+
+
 
 
 🔎Would you like to find me?
