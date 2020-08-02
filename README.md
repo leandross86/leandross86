@@ -11,7 +11,7 @@ I am studying mechanical engineering and analysis and system development.
 🔎Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-souza-b0196387/)](https://www.linkedin.com/in/leandro-souza-b0196387/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandrobko?s=09)](https://twitter.com/leandrobko?s=09)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandrobko?s=09)](https://twitter.com/leandrobko?s=09) [![Gmail Badge](https://img.shields.io/badge/-leandrobko@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrobko@gmail.com)](mailto:leandrobko@gmail.com)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leandross86&show_icons=true&theme=tokyonight)](https://github.com/leandross86/github-readme-stats)
