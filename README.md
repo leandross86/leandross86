@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-My name is Leandro Souza from Brazil (🇧🇷).
-I am studying mechanical engineering and systems development.
-- 🌱 I’m currently learning javascript, reactJS, react-native, typescript, Python...
-- 😄 I love to play soccer, videogames, and code...
+
+My name is Leandro Souza, from Brazil (🇧🇷).
+I am studying mechanical engineering and systems analysis and development.
+- 🌱 I'm currently
+studying and learning javascript, reactJS, react-native, Python and C# ...
+- 😄 I love playing football, video games and programming ...
+
 
 
 
@@ -16,7 +19,8 @@ I am studying mechanical engineering and systems development.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leandross86&show_icons=true&theme=tokyonight)](https://github.com/leandross86/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandross86&layout=compact)](https://github.com/leandross86/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandross86&langs_count=8)](https://github.com/leandross86/github-readme-stats)
+
 <!--
 **leandross86/leandross86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
