@@ -21,6 +21,11 @@ studying and learning javascript, reactJS, react-native, Python and C# ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandross86&langs_count=8)](https://github.com/leandross86/github-readme-stats)
 
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/leandross86/count.svg" />
+ </p>
+
 <!--
 **leandross86/leandross86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
