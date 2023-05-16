@@ -2,7 +2,7 @@
 
 
 My name is Leandro Souza, from Brazil (🇧🇷).
-I am DevSecOps Analyst and frontend developer.
+I am cybersecurity and cloud security analyst.
 - 🌱 I'm currently
 studying and learning cybersecurity and appsec ...
 - 😄 I love playing football, video games and programming ...
